@@ -4,7 +4,6 @@ import CalorieTracker from './Tracker';
 import { Meal, Workout } from './Item'; 
 
 import './css/bootstrap.css';
-import './css/style.css';
 
 
 class App {
